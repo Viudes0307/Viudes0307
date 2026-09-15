@@ -11,3 +11,6 @@ IDIOMAS
 
 OBJETIVO
 Estágio ou posição júnior em tecnologia
+
+CONTATO
+E-mail: nicolyyviudes@gmail.com
