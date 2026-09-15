@@ -1,16 +1,13 @@
-## Hi there 👋
+FORMAÇÃO
+Técnico em Informática para Internet — ETEC Antonio Furlan (em andamento)
 
-<!--
-**Viudes0307/Viudes0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CONHECIMENTOS TÉCNICOS
+•Excel — nível avançado (fórmulas, tabelas dinâmicas e dashboards)
+• Desenvolvimento Web — HTML, CSS, JavaScript
+• Versionamento — GitHub
 
-Here are some ideas to get you started:
+IDIOMAS
+• Português (nativo) | Espanhol (intermediário) | Inglês (básico) | Coreano (iniciante)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+OBJETIVO
+Estágio ou posição júnior em tecnologia
